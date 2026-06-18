@@ -5,3 +5,4 @@ https://tr.bangumi.moe:9696/announce
 http://tr.bangumi.moe:6969/announce
 
 udp://tr.bangumi.moe:6969/announce
+
